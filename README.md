@@ -1,5 +1,6 @@
 # Flexbox_html_css_js
- Materias para estudo de responsividade
+ Materias para estudo e demonstrção de habilidades responsividade
+ 
  
  Linguagens: HTML5, CSS3, JavaScript 
  
